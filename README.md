@@ -9,7 +9,7 @@ I am a self-taught cybersecurity enthusiast who's continuously learning about we
 
 - 🧠 Passionate about Cybersecurity
 - 🔍 Proficient in **OWASP Top 10 Vulnerabilities**
-- 🐦 [Twitter](https://twitter.com/SohelPratap)
+
 
 
 ## Technologies & Tools ⚙️
